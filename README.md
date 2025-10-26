@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o <b>Kelvin Nascimento</b></h1>
+<h1 align="center">Olá, eu sou o <b>Kelvin Nascimento</b></h1>
 
 <h3 align="left">
 Sou um desenvolvedor full-stack apaixonado por tecnologia, direto do Brasil 🇧🇷.  
